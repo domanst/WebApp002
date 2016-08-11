@@ -3,14 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6123F813-9511-4065-9686-2B11E38D40AF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1130DB2A-0AEA-4A08-88D3-08F57B22E2A3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{189169A3-F147-4E07-A7CF-3256B745BE00}"
-	ProjectSection(SolutionItems) = preProject
-		global.json = global.json
-	EndProjectSection
-EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "WebApp002", "src\WebApp002\WebApp002.xproj", "{06287CA2-CC32-490F-8178-6B278B6E3B90}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "WebApp002", "src\WebApp002\WebApp002.xproj", "{710BF1C3-33FC-48B0-BA60-69E7020F623A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,15 +13,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{06287CA2-CC32-490F-8178-6B278B6E3B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{06287CA2-CC32-490F-8178-6B278B6E3B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{06287CA2-CC32-490F-8178-6B278B6E3B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{06287CA2-CC32-490F-8178-6B278B6E3B90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{710BF1C3-33FC-48B0-BA60-69E7020F623A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710BF1C3-33FC-48B0-BA60-69E7020F623A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710BF1C3-33FC-48B0-BA60-69E7020F623A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{710BF1C3-33FC-48B0-BA60-69E7020F623A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{06287CA2-CC32-490F-8178-6B278B6E3B90} = {6123F813-9511-4065-9686-2B11E38D40AF}
+		{710BF1C3-33FC-48B0-BA60-69E7020F623A} = {1130DB2A-0AEA-4A08-88D3-08F57B22E2A3}
 	EndGlobalSection
 EndGlobal
