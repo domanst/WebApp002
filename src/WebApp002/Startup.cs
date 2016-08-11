@@ -30,7 +30,7 @@ namespace WebApp002
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World!");
+                await context.Response.WriteAsync("Hello World! Deployed to Azure...");
             });
         }
     }
